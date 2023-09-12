@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js , Backend Technologies**
 
-- 💬 Ask me about **C,C++,PYTHON,HTML,CSS,JAVASCRIPT,**
+- 💬 Ask me about **C,C++,PYTHON,HTML,CSS,JAVASCRIPT,React Js **
 
 - 📫 How to reach me **nitinsharma20657@gmail.com**
 
