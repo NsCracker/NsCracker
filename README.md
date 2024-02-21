@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nscracker&label=Profile%20views&color=0e75b6&style=flat" alt="nscracker" /> </p>
 
-- 🌱 I’m currently learning **React Js , Backend Technologies**
+- 🔭 Visit My PortFolio [NS_Portfolio.com](https://nscracker.github.io/NS/)
+  
+- 🌱 I’m currently learning **React Js , Backend Technologies MERN**
 
 - 💬 Ask me about **C,C++,PYTHON,HTML,CSS,JAVASCRIPT,React Js**
 
